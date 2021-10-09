@@ -11,11 +11,11 @@
 
 ## Install
 
-- unlock_lambert1.py -> documents/maya/script/unlock_lambert1.py  복사 
+- unlock_lambert1.py -> documents/maya/scripts/unlock_lambert1.py  복사 
 
-- documents/maya/script/userSetup.py 파일이 없으면 
-    - userSetup.py -> documents/maya/script/userSetup.py 복사
+- documents/maya/scripts/userSetup.py 파일이 없으면 
+    - userSetup.py -> documents/maya/scripts/userSetup.py 복사
 
-- documents/maya/script/userSetup.py 파일이 있으면 
-    - userSetup.py 파일안에 내용을 documents/maya/script/userSetup.py  파일에 아래에 추가 복사
+- documents/maya/scripts/userSetup.py 파일이 있으면 
+    - userSetup.py 파일안에 내용을 documents/maya/scripts/userSetup.py  파일에 아래에 추가 복사
 
