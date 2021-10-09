@@ -4,7 +4,7 @@
 
 ## issue
 
-- Maya scene 에 lambert1 이 lock 되어 object 에 shader 적용이 안되는 문제가 있음
+- Maya scene 에 lambert1 이 lock 되어있어 object 에 shader 적용이 안되는 문제가 있음 (화면에서 보이지 않음)
 - unlock_lambert1 을 설치하면 scene 을 오픈할때 와 저장할때 자동으로 lambert1 을 unlock 해줍니다.
 
 <br>
