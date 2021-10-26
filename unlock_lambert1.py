@@ -24,7 +24,7 @@ def iterLockedInitialShaders():
                 yield node
 
 
-def unLockInitialShaders():
+def unLockInitialShaders(*args):
     lockShaders = list(iterLockedInitialShaders())
     if lockShaders:
         for node in lockShaders:
